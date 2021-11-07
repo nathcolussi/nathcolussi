@@ -1,7 +1,7 @@
 // Olá! Eu sou a Nathalia C. Marchioli
 
-- 👩🏻‍🦰 Hoje eu trabalho como assistente de E-Commerce
-- 💻 Estudando: Html, Css, Nodejs
+- 👩🏻‍🦰 Hoje eu trabalho como Desenvolvedora Front-End
+- 💻 ReactJs
 - 📩 E-mail: nathcolussi1@outlook.com
 
 
